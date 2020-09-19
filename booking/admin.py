@@ -4,7 +4,7 @@ from django.contrib import admin
 from .models import Booking
 
 # Register your models here.
-
+# yes
 
 @admin.register(Booking)
 # 레지스터 안에 있는 booking을 제어
